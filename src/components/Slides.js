@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Slides({slides}) {
-
+console.log(slides)
     return (
         <div>
             <div id="navigation" className="text-center">
